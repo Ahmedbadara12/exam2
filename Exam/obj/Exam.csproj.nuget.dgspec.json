@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study .net\\exam\\exam.csproj": {}
+    "D:\\study .net\\exam\\Exam\\Exam.csproj": {}
   },
   "projects": {
-    "D:\\study .net\\exam\\exam.csproj": {
+    "D:\\study .net\\exam\\Exam\\Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study .net\\exam\\exam.csproj",
-        "projectName": "exam",
-        "projectPath": "D:\\study .net\\exam\\exam.csproj",
+        "projectUniqueName": "D:\\study .net\\exam\\Exam\\Exam.csproj",
+        "projectName": "Exam",
+        "projectPath": "D:\\study .net\\exam\\Exam\\Exam.csproj",
         "packagesPath": "C:\\Users\\medob\\.nuget\\packages\\",
-        "outputPath": "D:\\study .net\\exam\\obj\\",
+        "outputPath": "D:\\study .net\\exam\\Exam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
